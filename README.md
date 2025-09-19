@@ -1,5 +1,5 @@
 # crood_numero35
-hola, mi nombre es juan diego gonzalez marin 
+hola, mi nombre es juan diego gonzalez marin con juan david beltran mendez
 package com.ejemplo.demo;
 
 import org.springframework.boot.SpringApplication;
